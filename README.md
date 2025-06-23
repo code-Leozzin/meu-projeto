@@ -1,5 +1,5 @@
 
-# DIo Resusmos Git e Github
+# DIo Resusmos Git e Githubbb
 Repositorio para o git tlgd do curso da dio rlk
 
 ## 🐱‍💻 Documentos
@@ -11,7 +11,7 @@ Repositorio para o git tlgd do curso da dio rlk
 
 |Aulas|Resumos|
 |------|------|
-|Gravando alterações No Repositorio local| [Resumo]
+|Aula 1| [Resumo]
 () |
 
 ```
