@@ -11,7 +11,7 @@ Repositorio para o git tlgd do curso da dio rlk
 
 |Aulas|Resumos|
 |------|------|
-|Gravando alterações No Repositorio local| [Resumos]
+|Gravando alterações No Repositorio local| [Resumo]
 () |
 
 ```
